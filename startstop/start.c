@@ -2,7 +2,7 @@
  * start.c
  */
 
-/* notice the lack of init macros is this an oversight? may 2024 edition */
+/* notice the lack of init macros is this an oversight? may 2024 edition? */
 
 #include <linux/kernel.h>
 #include <linux/module.h>
